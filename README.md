@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on publicipinfo website<br>⚡ node js is my expertise
+🔭 I’m currently working on diatek <br>⚡ node js is my expertise
 
 
 ## 🌐 Socials:
